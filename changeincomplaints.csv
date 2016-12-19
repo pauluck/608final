@@ -1,0 +1,175 @@
+"Year","ComplaintType","Total","diff"
+2010,"Adopt-A-Basket",36,0
+2011,"Adopt-A-Basket",24,-12
+2012,"Adopt-A-Basket",38,14
+2013,"Adopt-A-Basket",48,10
+2014,"Adopt-A-Basket",28,-20
+2015,"Adopt-A-Basket",59,31
+2010,"Agency Issues",0,0
+2011,"Agency Issues",0,0
+2012,"Agency Issues",1,1
+2013,"Agency Issues",0,-1
+2014,"Agency Issues",0,0
+2015,"Agency Issues",0,0
+2010,"Collection Truck Noise",133,0
+2011,"Collection Truck Noise",114,-19
+2012,"Collection Truck Noise",170,56
+2013,"Collection Truck Noise",125,-45
+2014,"Collection Truck Noise",173,48
+2015,"Collection Truck Noise",181,8
+2010,"Complaint",0,0
+2011,"Complaint",0,0
+2012,"Complaint",4,4
+2013,"Complaint",0,-4
+2014,"Complaint",0,0
+2015,"Complaint",0,0
+2010,"Compliment",0,0
+2011,"Compliment",0,0
+2012,"Compliment",1,1
+2013,"Compliment",0,-1
+2014,"Compliment",0,0
+2015,"Compliment",0,0
+2010,"Derelict Bicycle",88,0
+2011,"Derelict Bicycle",401,313
+2012,"Derelict Bicycle",802,401
+2013,"Derelict Bicycle",743,-59
+2014,"Derelict Bicycle",1190,447
+2015,"Derelict Bicycle",1259,69
+2010,"Derelict Vehicles",10332,0
+2011,"Derelict Vehicles",10282,-50
+2012,"Derelict Vehicles",10216,-66
+2013,"Derelict Vehicles",11094,878
+2014,"Derelict Vehicles",12535,1441
+2015,"Derelict Vehicles",18613,6078
+2010,"Dirty Conditions",34260,0
+2011,"Dirty Conditions",36331,2071
+2012,"Dirty Conditions",33148,-3183
+2013,"Dirty Conditions",31788,-1360
+2014,"Dirty Conditions",32163,375
+2015,"Dirty Conditions",33852,1689
+2010,"Foam Ban Enforcement",0,0
+2011,"Foam Ban Enforcement",0,0
+2012,"Foam Ban Enforcement",0,0
+2013,"Foam Ban Enforcement",0,0
+2014,"Foam Ban Enforcement",0,0
+2015,"Foam Ban Enforcement",15,15
+2010,"Forms",0,0
+2011,"Forms",0,0
+2012,"Forms",0,0
+2013,"Forms",0,0
+2014,"Forms",0,0
+2015,"Forms",0,0
+2010,"Graffiti",20045,0
+2011,"Graffiti",15605,-4440
+2012,"Graffiti",15233,-372
+2013,"Graffiti",12693,-2540
+2014,"Graffiti",15297,2604
+2015,"Graffiti",13064,-2233
+2010,"Invitation",0,0
+2011,"Invitation",0,0
+2012,"Invitation",0,0
+2013,"Invitation",0,0
+2014,"Invitation",0,0
+2015,"Invitation",0,0
+2010,"Literature Request",0,0
+2011,"Literature Request",0,0
+2012,"Literature Request",0,0
+2013,"Literature Request",1,1
+2014,"Literature Request",3,2
+2015,"Literature Request",88,85
+2010,"Litter Basket / Request",2394,0
+2011,"Litter Basket / Request",2936,542
+2012,"Litter Basket / Request",2232,-704
+2013,"Litter Basket / Request",2465,233
+2014,"Litter Basket / Request",2719,254
+2015,"Litter Basket / Request",2498,-221
+2010,"Misc. Comments",0,0
+2011,"Misc. Comments",0,0
+2012,"Misc. Comments",0,0
+2013,"Misc. Comments",0,0
+2014,"Misc. Comments",0,0
+2015,"Misc. Comments",0,0
+2010,"Missed Collection (All Materials)",16243,0
+2011,"Missed Collection (All Materials)",18887,2644
+2012,"Missed Collection (All Materials)",13420,-5467
+2013,"Missed Collection (All Materials)",16289,2869
+2014,"Missed Collection (All Materials)",21575,5286
+2015,"Missed Collection (All Materials)",25262,3687
+2010,"Other Enforcement",4780,0
+2011,"Other Enforcement",4307,-473
+2012,"Other Enforcement",4432,125
+2013,"Other Enforcement",5004,572
+2014,"Other Enforcement",5469,465
+2015,"Other Enforcement",6393,924
+2010,"Overflowing Litter Baskets",1386,0
+2011,"Overflowing Litter Baskets",1250,-136
+2012,"Overflowing Litter Baskets",1077,-173
+2013,"Overflowing Litter Baskets",1130,53
+2014,"Overflowing Litter Baskets",1023,-107
+2015,"Overflowing Litter Baskets",1475,452
+2010,"Overflowing Recycling Baskets",0,0
+2011,"Overflowing Recycling Baskets",0,0
+2012,"Overflowing Recycling Baskets",0,0
+2013,"Overflowing Recycling Baskets",0,0
+2014,"Overflowing Recycling Baskets",55,55
+2015,"Overflowing Recycling Baskets",36,-19
+2010,"Recycling Enforcement",1278,0
+2011,"Recycling Enforcement",970,-308
+2012,"Recycling Enforcement",931,-39
+2013,"Recycling Enforcement",818,-113
+2014,"Recycling Enforcement",781,-37
+2015,"Recycling Enforcement",980,199
+2010,"Request for Information",0,0
+2011,"Request for Information",0,0
+2012,"Request for Information",0,0
+2013,"Request for Information",0,0
+2014,"Request for Information",0,0
+2015,"Request for Information",0,0
+2010,"Request Xmas Tree Collection",0,0
+2011,"Request Xmas Tree Collection",0,0
+2012,"Request Xmas Tree Collection",0,0
+2013,"Request Xmas Tree Collection",0,0
+2014,"Request Xmas Tree Collection",672,672
+2015,"Request Xmas Tree Collection",0,-672
+2010,"Sanitation Condition",27165,0
+2011,"Sanitation Condition",23705,-3460
+2012,"Sanitation Condition",23591,-114
+2013,"Sanitation Condition",23582,-9
+2014,"Sanitation Condition",26212,2630
+2015,"Sanitation Condition",31310,5098
+2010,"Snow",11477,0
+2011,"Snow",11627,150
+2012,"Snow",560,-11067
+2013,"Snow",1526,966
+2014,"Snow",14747,13221
+2015,"Snow",12699,-2048
+2010,"Standpipe - Mechanical",0,0
+2011,"Standpipe - Mechanical",0,0
+2012,"Standpipe - Mechanical",6,6
+2013,"Standpipe - Mechanical",0,-6
+2014,"Standpipe - Mechanical",0,0
+2015,"Standpipe - Mechanical",0,0
+2010,"Sweeping/Inadequate",0,0
+2011,"Sweeping/Inadequate",0,0
+2012,"Sweeping/Inadequate",0,0
+2013,"Sweeping/Inadequate",0,0
+2014,"Sweeping/Inadequate",449,449
+2015,"Sweeping/Inadequate",402,-47
+2010,"Sweeping/Missed",0,0
+2011,"Sweeping/Missed",0,0
+2012,"Sweeping/Missed",0,0
+2013,"Sweeping/Missed",2,2
+2014,"Sweeping/Missed",1490,1488
+2015,"Sweeping/Missed",1278,-212
+2010,"Sweeping/Missed-Inadequate",1153,0
+2011,"Sweeping/Missed-Inadequate",1693,540
+2012,"Sweeping/Missed-Inadequate",1283,-410
+2013,"Sweeping/Missed-Inadequate",1375,92
+2014,"Sweeping/Missed-Inadequate",0,-1375
+2015,"Sweeping/Missed-Inadequate",0,0
+2010,"Vacant Lot",847,0
+2011,"Vacant Lot",970,123
+2012,"Vacant Lot",2160,1190
+2013,"Vacant Lot",2342,182
+2014,"Vacant Lot",1969,-373
+2015,"Vacant Lot",1969,0
