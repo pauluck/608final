@@ -1,0 +1,9 @@
+0,1
+Closed,0
+Pending,1
+Closed - Email Sent,2
+Closed - No Response Needed,3
+Closed - In-Person,4
+Closed - Letter Sent,5
+Open,6
+Assigned,7
